@@ -1,6 +1,6 @@
 # Code Structure
 ```
-pimple_detection_project/
+issue_detection_project/
 ├── data/
 │   ├── train/
 │   └── val/
@@ -39,4 +39,3 @@ Ensure you have a virtual environment or use pip to install the required package
 
 
 # Dataset Source
-https://challenge.isic-archive.com/data/#2020
